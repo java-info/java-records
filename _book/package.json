@@ -1,0 +1,19 @@
+{
+  "name": "java-records",
+  "version": "1.0.0",
+  "description": "<style>   .body-inner{     background: linear-gradient(to bottom, #FAF0CA 0%, #fff 100%) no-repeat scroll 0 0;   } </style>",
+  "main": "zpublish.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@stonej00:java-info/java-records.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
